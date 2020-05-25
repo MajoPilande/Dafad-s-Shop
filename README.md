@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can check our Facebook page [Dafad's Shop](https://www.facebook.com/Dafads-Shop-x-Bakerella-107926037584877/) to maintain and preview the content for your website in Markdown files.
+You can check our Facebook page [Dafad's Shop](https://www.facebook.com/Dafads-Shop-x-Bakerella-107926037584877/) to view our bakerella cakes.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
